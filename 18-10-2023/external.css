@@ -1,0 +1,13 @@
+body{
+    background-color: yellow;
+}
+#size{
+    font-style: italic;
+}
+.style{
+    color: blue;
+}
+h1,p,#size{
+    background-color: aqua;
+}
+
